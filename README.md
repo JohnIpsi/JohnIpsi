@@ -1,16 +1,53 @@
 ### Hi there 👋
 
-<!--
-**JohnIpsi/JohnIpsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%">
+  <tr>
+  <th>Tech stack currently using</th>
+  <th>Find me at</th>
+  </tr>
+  <tr>
+  <td width="50%">
 
-Here are some ideas to get you started:
+ <p align = "center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </td>
+  <td width="50%">
+
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ioannis-ypsilantis)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/pjICx)
+![Visits](https://komarev.com/ghpvc/?username=JohnIpsi)
+
+</p>
+  </td>
+  <tr>
+  <td width = "50%">
+  <br>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnIpsi&layout=compact&show_icons=true&theme=onedark&locale=en" alt="JohnIpsi" /></p>
+  </td>
+  <td width = "50%">
+  <br>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=JohnIpsi&show_icons=true&locale=en&theme=onedark" alt="JohnIpsi" /></p>
+  </td>
+  <tr>
+  <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
+  <tr>
+  <td colspan=2 width ="50%">
+  <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+  </p>
+  </table>
+
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
