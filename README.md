@@ -35,7 +35,7 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=JohnIpsi&show_icons=true&locale=en&theme=onedark" alt="JohnIpsi" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnIpsi&layout=compact&show_icons=true&theme=onedark&locale=en" alt="JohnIpsi" /></p>
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
